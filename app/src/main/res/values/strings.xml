@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fitness</string>
+    <string name="muscle_icon">Muscle</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="health">Здоровье</string>
+    <string name="logo1">Онлайн</string>
+    <string name="logo2">тренинг</string>
+    <string name="course_time">Продолжительность тренировки:</string>
+    <string name="course_type">Тип занятия:</string>
+    <string name="course_1">Бодифлекс – это дыхательная гимнастика, основанная на сочетании глубокого диафрагмального типа дыхания и комплекса упражнений на растяжку. В отличие от других техник, он основан на задержке дыхания после выдоха.</string>
+</resources>
